@@ -1,0 +1,4 @@
+moviepy==1.0.3
+natsort==8.4.0
+pandas==1.5.2
+seaborn==0.13.1
